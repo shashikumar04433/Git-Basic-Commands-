@@ -16,4 +16,11 @@
 ### Command to configure using editor:
     git config --global core.editor "code --wait"
 
+### Command to handle end of lines:
+    git config --global core.autocrlf input
+    
+### Command to edit global default settings:
+    git config --global -e
+### Command to make changes which you updated or Taking snapshots of your project:
+    git commit -m "write the reason why you changed"
 
