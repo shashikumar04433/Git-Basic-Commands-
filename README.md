@@ -52,5 +52,7 @@
     echo logs/>.gitignore
 ### Command to see the status of staging area:
     git status -s
+### Command to change all modified files:
+    git status -am "All modified files"
     
 
