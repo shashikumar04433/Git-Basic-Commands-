@@ -74,5 +74,12 @@
     git show head~2(2 is the number like last 2 nd line)
 ### Command to see all directories and files:
     git ls-tree head~1
-    
+### Objects of the Git:
+    1)Commits.
+    2)Blobs(Files).
+    3)Trees(Directories).
+    4)Tags.
+### Discard changes are remove changes in git:
+    git restore filename
+
          
