@@ -59,7 +59,16 @@
 ### Command to remove showing another git process seems running in this repo.
     rm -f .git/index.lock
     
-### Commmand to see history in git:
+### Commmand to see history in git and after command press space button to see next page history:
     git log
-    
+  
+### Command to show last page changes in git:
+    git log --online
+### Command to reverse the history which shows latest command in the last:
+    git log --online --reverse
+
+### Command to view last commit (we can see what changed)
+    git show head
+ 
+### 
          
