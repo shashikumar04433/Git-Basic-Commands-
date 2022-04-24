@@ -81,5 +81,23 @@
     4)Tags.
 ### Discard changes are remove changes in git:
     git restore filename
-
+### Command to clean or delete all files permanently:
+    git clean 
+### Command to take help in git:
+    git clean -h
+### Command to restoring a file to an earlier version :
+    step1:
+         git rm filename
+    step2:
+         git log --online
+    step3:
+         git restore -h
+    step4:
+         git resource --source =head~1 filename
+    step5:
+         git status -s
+         
+         
+         
+    
          
