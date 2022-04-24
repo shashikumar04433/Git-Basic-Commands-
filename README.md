@@ -54,5 +54,11 @@
     git status -s
 ### Command to change all modified files:
     git status -am "All modified files"
+### Command to allow us to track the changes that are staged but not committed:
+    git diff --staged
+### Command to remove showing another git process seems running in this repo.
+    rm -f .git/index.lock
     
-
+### Commmand to see history in git:
+    
+         
