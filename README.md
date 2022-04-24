@@ -70,5 +70,9 @@
 ### Command to view last commit (we can see what changed)
     git show head
  
-### 
+### Command to see previous commit:
+    git show head~2(2 is the number like last 2 nd line)
+### Command to see all directories and files:
+    git ls-tree head~1
+    
          
