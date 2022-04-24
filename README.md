@@ -60,5 +60,6 @@
     rm -f .git/index.lock
     
 ### Commmand to see history in git:
+    git log
     
          
