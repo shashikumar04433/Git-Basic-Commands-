@@ -5,6 +5,7 @@
       3.Commit changes.
 
 ## Commands of the git are:
+      git clone ""path of the file which copied in the github code part"
 ### Command to see the version of git:
      Git --version
 ### Command to clone the files:
