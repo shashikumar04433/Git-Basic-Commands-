@@ -7,6 +7,7 @@
 ## Commands of the git are:
 ### Command to see the version of git:
      Git --version
+### Command to clone the files:
 ### Command to configure using the mail :
     git config --global user.email"shashikumar04433@gmail.com"
 
@@ -96,6 +97,8 @@
          git resource --source =head~1 filename
     step5:
          git status -s
+         
+
          
          
          
